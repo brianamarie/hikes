@@ -4,7 +4,7 @@ This is where you can help develop new videos for the hikes.
 
 Here is an overview of our current videos as well as where we'd like to add:
 
-Computer Basics *Help Wanted*
+## Computer Basics *Help Wanted*
 - Computer Basics 1: The 4 Basic Parts of a Computer
 - Computer Basics 2: More Computer Hardware
 - Computer Basics 3: Intro to Binary Code
@@ -18,7 +18,7 @@ Computer Basics *Help Wanted*
 - Computer Basics 11: IP Addresses
 - Computer Basics 12: How the Internet Works
 - Computer Basics 13: Software
-- *Computer Basics: What does 'Open Source' mean? - Help wanted!*
+- Computer Basics: What does 'Open Source' mean?
 - Computer Basics 14: Content Delivery Networks
 - Computer Basics 15: Analog vs Digital and how File Compression works
 - Computer Basics 16: Chips and how Moore's Law works
@@ -28,11 +28,6 @@ Computer Basics *Help Wanted*
 - Computer Basics 20: What Do Programmers Do?
 - Computer Basics 21: Chrome JavaScript Console and how Logging works
 - *Computer Basics: How Does RAM Work? - Help wanted!*
-- *Computer Basics: Trees - Help wanted!*
-- *Computer Basics: Red-Black Trees - Help wanted!*
-- *Computer Basics: B-Trees - Help wanted!*
-- *Computer Basics: AVL Trees - Help wanted!*
-- *Computer Basics: Binary Search Trees - Help wanted!*
 - *Computer Basics: What Are Ports? - Help wanted!*
 - *Computer Basics: What is Garbage Collection? - Help wanted!*
 - *Computer Basics: What is Just-In-Time Compilation? - Help wanted!*
@@ -44,23 +39,43 @@ Computer Basics *Help Wanted*
 - *Computer Basics: What Are Threads? - Help wanted!*
 - *Computer Basics: What is an Embarassingly Parallel Algorithm? - Help wanted!*
 - *Computer Basics: What is an Algorithm? - Help wanted!*
-- *Computer Basics: Shortest Path on a Graph - Help wanted!*
 - *Computer Basics: Packets and Data Frames - Help wanted!*
 - *Computer Basics: What is a Matrix? - Help wanted!*
-- *Computer Basics: Queue - Help wanted!*
-- *Computer Basics: Hash Table - Help wanted!*
-- *Computer Basics: Linked List - Help wanted!*
 - *Computer Basics: Dictionary - Help wanted!*
 - *Computer Basics: What is Object Oriented Programming? - Help wanted!*
 - *Computer Basics: How Basic Error Handling Works - Help wanted!*
 - *Computer Basics: What is an SDK? - Help wanted!*
 - *Computer Basics: What is an API? - Help wanted!*
+- 
+## Data Structures *Help Wanted*
+- *Data Structures: Arrays - Help wanted!*
+- *Data Structures: Stack - Help wanted!*
+- *Data Structures: Queue - Help wanted!*
+- *Data Structures: HashTables - Help wanted!*
+- *Data Structures: Linked List - Help wanted!*
+- *Data Structures: Types of Linked Lists - Help wanted!*
+- *Data Structures: Trees - Help wanted!*
+- *Data Structures: Binary Trees - Help wanted!*
+- *Data Structures: Binary Search Trees - Help wanted!*
+- *Data Structures: Red Black Trees - Help wanted!*
+- *Data Structures: AVL Trees - Help wanted!*
+- *Data Structures: Heaps - Help wanted!*
+- *Data Structures: Graphs - Help wanted!*
+- *Data Structures: Shortest Path on a Graph - Help wanted!*
 
-The DOM
+## The DOM
 - The DOM: What's the Document Object Model?
 - The DOM: Style in the Header, Script in the Footer
 
-JavaScript Lingo
+## Web Accessibility
+- Web Accessibility: What is Web Accessibility? 
+- Web Accessibility: Why You Should Care
+- Web Accessibility: Visual
+- Web Accessibility: Auditory
+- Web Accessibility: Cognitive
+- Web Accessibility: Motor
+
+## JavaScript Lingo
 - JavaScript Lingo: Value Types
 - JavaScript Lingo: MDN and Documentation
 - JavaScript Lingo: Variables & camelCase
@@ -71,7 +86,19 @@ JavaScript Lingo
 - JavaScript Lingo: Loops
 - JavaScript Lingo: Regular Expressions
 
-Tools
+## Working in Tech *Help wanted!*
+ - *Different cultures - Help Wanted!*
+ - *Are you a good fit? - Help Wanted!*
+ - *Reality vs. T.V. - Help Wanted!*
+ - *Types of funding/angel investors - Help Wanted!*
+ - *Non-disclosure agreements - Help Wanted!*
+ - *Non-compete clauses - Help Wanted!*
+ - *Equity - Help Wanted!*
+ - *Working as a Freelancer - Help Wanted!*
+ - *Branding yourself - Help Wanted!*
+ - *Unique management strategies (i.e. ROWE, AGILE teams, completely remote (think Buffer), etc.) - Help Wanted!*
+
+## Tools
 - *Tools: Introduction to Markdown - Help Wanted!*
 - *Tools: What is an IDE? - Help Wanted!*
 - *Tools: Using the Unix/Linux Command Line - Help Wanted!*
@@ -80,21 +107,22 @@ Tools
 - *Tools: Gulp & Grunt - Help Wanted!*
 - *Tools: What is the Java Virtual Machine? - Help Wanted!*
 
-Data Visualization *Help Wanted*
+## Data Visualization *Help Wanted*
 
-UI/UX Design & Development *Help Wanted*
+## UI/UX Design & Development *Help Wanted*
 - *UI/UX Design & Development: What is User Centered Design? - Help Wanted!*
 
-Web Design *Help Wanted*
+## Web Design *Help Wanted*
+- Web Design: Development vs Design
 
-Mobile JavaScript Development
+## Mobile JavaScript Development
 - *Mobile JavaScript Development: How to Optimize a Page For Loadtime - Help wanted!*
 
-Agile *Help Wanted*
+## Agile *Help Wanted*
 - *Agile: What is Behavior Driven Development?*
 - *Agile: What is Test Driven Development?*
 
-Chrome Dev Tools
+## Chrome Dev Tools
 - Chrome Dev Tools: Elements
 - Chrome Dev Tools: Network
 - Chrome Dev Tools: Sources
@@ -105,7 +133,7 @@ Chrome Dev Tools
 - Chrome Dev Tools: Console
 - Chrome Dev Tools: Summary
 
-Software Engineering
+## Software Engineering
 - *Software Engineering: What is Natural Language Processing? - Help wanted!*
 - *Software Engineering: What Does Orthogonal Mean in Software Design? - Help wanted!*
 - *Software Engineering: Why Comment Your Code? - Help wanted!*
@@ -113,26 +141,32 @@ Software Engineering
 - *Software Engineering: What are Unit Tests? - Help wanted!*
 - *Software Engineering: What is Continuous Delivery? - Help wanted!*
 
-Databases *Help Wanted*
+## Databases *Help Wanted*
 - *Databases: Graph Databases - Help wanted!*
 - *Databases: Document Store Databases (MongoDB) - Help wanted!*
 - *Databases: Relational Databases - Help wanted!*
 - *Databases: Indexes - Help wanted!*
 
-Big O Notation
+## Big O Notation
 - Big O Notation: What It Is and Why You Should Care
 - Big O Notation: A Few Examples
 
-Math for Programmers 
+## Discrete Mathematics
+- Tips for Learning
+- What is Discrete Mathematics?
+- Introduction to Sets
+- Set Operators
+- Associative & Commutative Laws
+- Distributive Laws
 
-Servers & DevOps
+## Servers & DevOps
 - *Servers & DevOps: File System - Help wanted!*
 - *Servers & DevOps: Docker - Help wanted!*
 - *Servers & DevOps: Puppet - Help wanted!*
 - *Servers & DevOps: What is Chef? - Help wanted!*
 - *Servers & DevOps: What is Vagrant? - Help wanted!*
 
-Statistics
+## Statistics
 - *Statistics: What is Statistics? - Help wanted!*
 - *Statistics: What is Probability? - Help wanted!*
 - *Statistics: Random Sampling - Help wanted!*
@@ -157,7 +191,7 @@ Statistics
 - *Statistics: Mode - Help wanted!*
 - *Statistics: Mean - Help wanted!*
 
-Machine Learning
+## Machine Learning
 - *Machine Learning: What is Machine Learning? - Help wanted!*
 - *Machine Learning: What is Monte Carlo? - Help wanted!*
 - *Machine Learning: What is a Random Forest? - Help wanted!*
